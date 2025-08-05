@@ -4,10 +4,10 @@
   <title>Simple Page</title>
   <style>
     body { font-family: Arial; margin: 0; padding: 0; }
-    header, footer { background: #333; color: #fff; text-align: center; padding: 1em; }
+    header, footer { background: skyblue; color: black; text-align: center; padding: 20px; }
     nav { background: #555; text-align: center; }
-    nav a { color: #fff; margin: 0 10px; text-decoration: none; }
-    main { padding: 2em; text-align: center; }
+    nav a { color: white; margin:  10px; text-decoration: none; }
+    main { padding: 20px; text-align: center; }
   </style>
 </head>
 <body>
