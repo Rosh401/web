@@ -5,7 +5,7 @@
 <title>Food Menu</title>
 <style>
   body {
-    margin: 0;
+    margin: 0; 
     font-family: Arial, sans-serif;
     background-color: #fff8e1;
     color: #333;
