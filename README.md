@@ -1,31 +1,69 @@
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Birthday Event</title>
+<title>Delicious Foods</title>
 <style>
-body{margin:0;font-family:Arial;background:linear-gradient(135deg,#ff9a9e,#fad0c4);text-align:center;color:#333;}
-.container{max-width:500px;margin:50px auto;background:#fff;padding:20px;border-radius:15px;box-shadow:0 4px 10px rgba(0,0,0,0.2);}
-h1{color:#ff4081;margin-bottom:10px;}
-h2{color:#6c63ff;margin:10px 0;}
-p{margin:8px 0;}
-.btn{display:inline-block;background:#6c63ff;color:#fff;padding:10px 20px;border-radius:8px;text-decoration:none;margin-top:15px;}
-.btn:hover{background:#5146d6;}
-footer{margin-top:20px;font-size:0.9em;color:#555;}
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fff5e6;
+    color: #333;
+    text-align: center;
+  }
+  header {
+    background-color: #ff9933;
+    color: white;
+    padding: 20px 0;
+  }
+  section {
+    margin: 30px auto;
+    width: 85%;
+    max-width: 600px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  h1 {
+    margin: 0;
+  }
+  h2 {
+    color: #e65c00;
+  }
+  img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+    margin: 10px 0;
+  }
+  p {
+    font-size: 16px;
+  }
+  .btn {
+    display: inline-block;
+    background-color: #ff9933;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 6px;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+  .btn:hover {
+    background-color: #e65c00;
+  }
 </style>
 </head>
 <body>
-<div class="container">
-<h1>🎉 Birthday Celebration 🎂</h1>
-<h2>You're Invited!</h2>
-<p><b>Date:</b> 20 October 2025</p>
-<p><b>Time:</b> 6:00 PM onwards</p>
-<p><b>Venue:</b> Sunshine Banquet Hall, Pune</p>
-<p>Join us for fun, music, and memories!</p>
-<a href="#" class="btn">RSVP Now</a>
-<footer>Made with 💖 for friends & family</footer>
-</div>
+  <header>
+    <h1>🍽️ Delicious Foods</h1>
+  </header>
+
+  <section>
+    <h2>Our Special Dish</h2>
+    <img src="https://images.unsplash.com/photo-1606755962773-0e7543b6a3f3?w=600" alt="Delicious Food">
+    <p>Enjoy our freshly made pizza with crispy crust, rich cheese, and your favorite toppings!</p>
+    <a href="#" class="btn">Order Now</a>
+  </section>
 </body>
 </html>
