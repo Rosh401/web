@@ -16,11 +16,6 @@
     color: white;
     padding: 20px 0;
   }
-  ul {
-    list-style: none;
-    padding: 0;
-    margin-top: 30px;
-  }
   li {
     background: white;
     margin: 10px auto;
@@ -45,10 +40,10 @@
   </header>
 
   <ul>
-    <li>Pizza Margherita</li>
-    <li>Veg Burger</li>
-    <li>Pasta Alfredo</li>
-    <li>Grilled Sandwich</li>
+    <li>Pizza </li>
+    <li>Veg </li>
+    <li>Pasta </li>
+    <li>Sandwich</li>
     <li>French Fries</li>
     <li>Chocolate Cake</li>
     <li>Fresh Fruit Salad</li>
